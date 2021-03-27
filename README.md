@@ -1,10 +1,18 @@
 # Traffic Jam Prediction using Multiple Method and Model
+ Contributor: [Farhan Tandia](https://github.com/farhantandia) <br>
  This is repository code for Data Science Weekends competition to predict traffic jam in West Java using Waze Dataset.<br>
  For the kaggle competition link, you can click [here](https://www.kaggle.com/c/danthon2021) <br>
  We are in top 13% in private leaderboard 12/96 from <strong>Lulus2021</strong><br>
  After did last submission, we could achieve 5/96 leaderboard.
  
-#OUR APPROACH
+ Our kaggle account:<br>
+ 1. [Ivan Surya Hutomo](https://www.kaggle.com/ivansuryahutomo)
+ 2. [Farhan Tandia](https://www.kaggle.com/farhantandia)
+
+Kaggle Notebook click [here](https://www.kaggle.com/farhantandia/catboost-optuna-stratified-k-fold-top-6)
+
+ 
+# OUR APPROACH
 To predict the result we use various method listed below:<br>
 1. Catboost
 2. LGBM
