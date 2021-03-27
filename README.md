@@ -35,7 +35,7 @@ Using traffic data provided by the JDS, predict high jam reports in certain sect
 # DATA PREPROCESSING 
 <img src="https://github.com/alexivaner/Traffic-Jam-Prediction-using-Multiple-Method-and-Model/raw/main/Lulus2021/Slide10.JPG" width="1000"><br>
 
-#RESULT
+# RESULT
 <img src="https://github.com/alexivaner/Traffic-Jam-Prediction-using-Multiple-Method-and-Model/raw/main/Lulus2021/Slide14.JPG" width="1000"><br>
 <img src="https://github.com/alexivaner/Traffic-Jam-Prediction-using-Multiple-Method-and-Model/raw/main/Lulus2021/Slide15.JPG" width="1000"><br>
 <img src="https://github.com/alexivaner/Traffic-Jam-Prediction-using-Multiple-Method-and-Model/raw/main/Lulus2021/Slide16.JPG" width="1000"><br>
